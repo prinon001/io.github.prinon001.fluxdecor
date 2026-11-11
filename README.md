@@ -70,3 +70,11 @@ SystemUI 插件会随系统版本更新。状态栏相关能力需要目标版�
 
 前往 [GitHub Releases](https://github.com/prinon001/io.github.prinon001.fluxdecor/releases) 下载最新的 Flux Decor APK。
 
+## Package
+io.github.prinon001.fluxdecor
+## Authors
+[prinon](https://github.com/prinon001)
+## Support / Discussion URL
+https://github.com/prinon001/io.github.prinon001.fluxdecor
+## Source URL
+https://github.com/prinon001/io.github.prinon001.fluxdecor
