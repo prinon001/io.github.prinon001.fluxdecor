@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://你的图标地址.png" width="128" />
+  <img src="fluxdecor_icon.jpg" width="128" />
 </p>
 <h1 align="center">Flux_Decor</h1>
 <p align="center">Hyper OS4状态栏时间自定义</p>
